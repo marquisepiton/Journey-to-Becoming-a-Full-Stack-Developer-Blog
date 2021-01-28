@@ -1,13 +1,13 @@
-In this project, I will document about my journey through the Awesome Inc. bootcamp to becoming a full stack developer, by each week.
+
+In this project, I will document weekly of my journey through the Awesome Inc. bootcamp to becoming a full stack developer.
+
 ### Skills I will showcase: 
  * Markdown
  * Git
  * Terminal (Linux/Mac)
  * Github Pages
  
- [![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/main/img/JourneyPicture.png?raw=true)](#)
-
- 
+ [![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/monitor.gif?raw=true)](#)
 
  
 
