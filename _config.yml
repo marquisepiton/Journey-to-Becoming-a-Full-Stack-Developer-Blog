@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Journey to Becoming a Full Stack Developer Blog 
 include:
+  - blog.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
@@ -9,8 +10,7 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
- 
-  
+
   
 
 
