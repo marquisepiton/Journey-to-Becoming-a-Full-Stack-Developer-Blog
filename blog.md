@@ -3,11 +3,11 @@
 ### The best thing about a boolean is even if you are wrong, you are only off by a bit. :laughing:
 #
 
-[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/WomanWelcome.gif?raw=true)](#)
+[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/main/img/WomanWelcome.gif?raw=true)](#)
 
 Hello! And welcome to my humble blog abode. If you are here looking for a story, you are in luck because I will tell you about my journey. "What journey," you say? Well, I didn't have to ignite an evil ring on fire by throwing it into a volcano, go to a magical school inheriting 99 wizardry problems, or finding out my father is a dark sith lord. My journey is about becoming a full stack developer and acquiring the skills at the Awesome Inc. Bootcamp. So welcome aboard!
 
-[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/DoctorWho.gif?raw=true)](#)
+[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/main/img/DoctorWho.gif?raw=true)](#)
 
 
 ## Week 1
@@ -17,7 +17,7 @@ I learned how to use the Linux/Mac terminal by reading [Learn Enough Command Lin
 
 I was eager to learn more about the terminal's advanced commands and work more efficiently to rid myself of the commoner's computer mouse and dive more into git. But I had to take my time and makesure I learned the foundations before I got into the meat and potatoes of the Bootcamp.
 
-[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/JourneyPicture.png?raw=true)](#)
+[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/main/img/JourneyPicture.png?raw=true)](#)
 
 
 ## Week 2
