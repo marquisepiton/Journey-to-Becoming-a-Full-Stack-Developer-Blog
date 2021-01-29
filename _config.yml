@@ -1,11 +1,20 @@
+
+title: jekyll-theme-cayman
+author: Marquise Piton
+email: pitonmarquise@gmail.com
+description: >
+  I will document weekly of my journey through the Awesome Inc. bootcamp to becoming a full stack developer.
+# social links
+instagram_username: marquisepiton
+github_username:  marquisepiton
+
+show_excerpts: true 
 theme: jekyll-theme-cayman
-title: Journey to Becoming a Full Stack Developer Blog 
-  relative_links:
-  enabled: true
-collections: true
-include: 
-  - blog.md
-  - README.md
+
+
+
+
+
 
   
 
