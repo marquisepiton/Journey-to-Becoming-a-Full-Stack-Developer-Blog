@@ -1,6 +1,3 @@
-### Description
-In this project, I will document weekly of my journey through the Awesome Inc. bootcamp to becoming a full stack developer.
-
 ### Skills I will showcase: 
  * Markdown
  * Git
