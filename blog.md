@@ -17,6 +17,7 @@ I learned how to use the Linux/Mac terminal by reading [Learn Enough Command Lin
 
 I was eager to learn more about the terminal's advanced commands and work more efficiently to rid myself of the commoner's computer mouse and dive more into git. But I had to take my time and makesure I learned the foundations before I got into the meat and potatoes of the Bootcamp.
 
+[![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/JourneyPicture.png?raw=true)](#)
 
 
 ## Week 2
