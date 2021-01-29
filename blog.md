@@ -1,6 +1,6 @@
-# Full Stack Developer: The Sweet Excursion 
+# Full Stack Developer: The Sweet Excursion :rocket:
 ###### Marquise Piton
-### The best thing about a boolean is even if you are wrong, you are only off by a bit.
+### The best thing about a boolean is even if you are wrong, you are only off by a bit. :laughing:
 #
 
 [![](https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/dev/img/WomanWelcome.gif?raw=true)](#)
