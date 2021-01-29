@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Journey to Becoming a Full Stack Developer Blog 
-include: https://github.com/marquisepiton/Journey-to-Becoming-a-Full-Stack-Developer-Blog/blob/main/blog.md
+include: 
   - blog.md
   - README.md
 
