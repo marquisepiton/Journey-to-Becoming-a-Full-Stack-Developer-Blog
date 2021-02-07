@@ -1,0 +1,159 @@
+
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family:Arial;
+    text-align: center;
+    
+   
+  }
+  html{
+      font-size: 20px; 
+      background-color:  #fff;
+    
+  }
+  
+
+   /* This is going to focus on the more structural elements: 
+   -Body
+   -header
+   -nav 
+   -main 
+   -footer */
+
+  body{
+      /* background-color: #9cfffa; */
+      background: size 20px;
+
+  }
+
+  header{
+      
+      
+      
+
+  }
+
+  nav{
+
+    background:#f7d992 ;
+    flex: 100%;
+   
+      
+     
+      
+    
+
+  }
+
+  main{
+      
+
+  }
+
+  footer{
+      background-color: #f7d992;
+      
+      font-weight:bolder;
+   
+
+  } 
+
+  /* This is going to focus on base elements: 
+  -h1 - h6
+  - p
+  -ol/ul
+  
+   */
+
+   h1{
+       font-size:140px;
+       color: #f2b830;
+       font-family: Impact;
+       margin-bottom:0px; 
+      
+       
+       
+   }
+
+  h2{
+      font-size:110px;
+      font-style:Impact ;
+      color: #f2b830;
+      font-weight: bold;
+     
+  }
+  /* This to position the "cute cat bounding on another logo to the left of the page */
+  header #lefttop{
+    width: 145px;
+    position: absolute;
+    left: 32.5px;
+    top: 32.5px;
+
+
+  }
+/* This to position the "cute cat logo" To the top right of the page */
+  header #righttop {
+    width: 145px;
+    position: absolute;
+    right: 32.5px;
+    top: 32.5px;
+    
+}
+header div{
+    color: #8c8c8c;
+    font-size: 25px;
+    font-family: Impact;
+    text-align: right;
+    width: 1550px;
+    padding-bottom: 25px;
+  
+   
+}
+
+
+footer a{
+
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    
+    
+
+}
+
+footer div a{
+    width: 500px;
+    position: absolute;
+   
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+
+}
+nav li{
+    font-size:30px;
+    display: inline; 
+    flex: 1;
+    color: #8c8c8c;
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 2.5;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+    
+    
+
+}
+main article p{
+    color: #8c8c8c;
+    font-weight: bolder;
+    margin-left: auto;
+    font-size: 30px;
+    margin-right: auto;
+    width: 40em;
+  
+   
+  
+ 
+}
