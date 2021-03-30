@@ -16,31 +16,31 @@ class App extends React.Component {
       {
         id: "weeks",
         name: "Week",
-        slogan: "I do into detail each with my time the Awesome Inc Bootcamp",
+        slogan: "Weekly updates",
         href: "#tab-weeks",
       },
       {
         id: "photos",
         name: "Photos",
-        slogan: "I do into detail each with my time the Awesome Inc Bootcamp",
+        slogan: "Photos taken during the Bootcamp",
         href: "#tab-photos",
       },
       {
         id: "articles",
         name: "Articles",
-        slogan: "I do into detail each with my time the Awesome Inc Bootcamp",
+        slogan: "Checkout my articles",
         href: "#tab-articles",
       },
       {
         id: "projects",
         name: "Projects",
-        slogan: "I do into detail each with my time the Awesome Inc Bootcamp",
+        slogan: "Projects that I did during the Bootcamp",
         href: "#tab-projects",
       },
       {
         id: "aboutMe",
         name: "About Me",
-        slogan: "I do into detail each with my time the Awesome Inc Bootcamp",
+        slogan: "I like Pineapples.",
         href: "#tab-aboutMe",
       },
     ];
@@ -115,7 +115,8 @@ class App extends React.Component {
         {/**************** Nav Bar **************************/}
         <section className="et-hero-tabs">
           <h1>Marquise Piton</h1>
-          <h3>Web Developer</h3>
+          <h3>I make Banana Bread</h3>
+         
 
 
 

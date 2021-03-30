@@ -7,9 +7,6 @@
 
   * {
     font-family: thunderStrike;
-    
-
-  
 }
 
 a {
@@ -102,7 +99,7 @@ h3 {
   opacity: 0.6;
 }
 .scroll {
-  background-color: #b0acb0;
+  background: linear-gradient(#3d898d, #85ebd9);
   position: fixed;
   top: 0;
   transition: 2s;
@@ -111,7 +108,7 @@ h3 {
 /* Main Footer */
 #footer .main-footer {
   padding: 20px 0;
-  background: #244;
+  background: #b0acb0;
 }
 footer ul {
   padding-left: 0;
@@ -279,7 +276,7 @@ ul.social-footer2 li a {
   text-align: center;
 }
 .btn {
-  background-color: #ff8d1e;
+  background-color: #2f404d;
   color: #2f404d;
 }
 .btn:hover,
