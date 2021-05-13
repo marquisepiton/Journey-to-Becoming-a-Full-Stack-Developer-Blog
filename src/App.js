@@ -9,10 +9,16 @@ function App() {
   return (
     <div>
       <div id="title">
-     
-        <span>Marquise Piton</span>
+      
+    <div id="stars"></div>
+          <div id="stars2"></div>
+          <div id="stars3"></div>
+      
+        
+        
+
         <div>
-          Full Stack Developer
+          Marquise Piton
           
         </div>
         <div
@@ -147,6 +153,10 @@ function App() {
               <span className="sr-only">Next</span>
             </a>
           </div>
+        </div>
+        <div>
+          Full Stack Developer
+          
         </div>
       </div>
 
