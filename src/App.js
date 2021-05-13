@@ -9,10 +9,7 @@ function App() {
   return (
     <div>
       <div id="title">
-
-      <div id="stars"></div>
-          <div id="stars2"></div>
-          <div id="stars3"></div>
+     
         <span>Marquise Piton</span>
         <div>
           Full Stack Developer
