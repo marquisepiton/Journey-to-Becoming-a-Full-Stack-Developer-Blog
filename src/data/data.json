@@ -1,0 +1,26 @@
+{
+    "homePageContent":[
+        {  
+            "header": "Marquise Piton",
+            "paragraph":  "Web Developer",
+            "scrollDown": "About Me"
+        },
+
+        {
+            "header": "About Me",
+            "paragraph": "Hi! My name is Marquise Piton. I have passion for coding and technology is general.",
+            "scrollDown": "Projects"
+        },
+        {
+            "header": "Web Development BootCamp",
+            "paragraph": "Learn about my time at the Awesome.",
+            "scrollDown": "Articles"
+
+        },
+        {
+            "header": "Articles",
+            "paragraph": "Links of the Articles that I wrote.",
+            "scrollDown": "Contact Me"
+        } 
+    ]
+}
