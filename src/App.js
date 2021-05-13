@@ -9,12 +9,14 @@ function App() {
   return (
     <div>
       <div id="title">
+
+      <div id="stars"></div>
+          <div id="stars2"></div>
+          <div id="stars3"></div>
         <span>Marquise Piton</span>
         <div>
           Full Stack Developer
-          <div id="stars"></div>
-          <div id="stars2"></div>
-          <div id="stars3"></div>
+          
         </div>
         <div
           id="carouselExampleIndicators"
@@ -214,7 +216,7 @@ function App() {
   <div class="card-body">
   As a little boy, I always had a fascination with computers and all things tech-related. Before college, I already knew my future would manifest in the tech industry because that is where my passions lie. I’m always eager, training, and growing in my programming skills. Learning is not a chore or irritation but a hobby of mine.
 
-I attended the Awesome Inc. Web development Bootcamp and worked on projects involving front-end, back-end development, or both. I learned how to use React to render beautiful webpages, build APIs, write PHP scripts and manipulate or show data in SQL with the intellectual instructors. I learned many more libraries or frameworks, but I continue to perfect my craft to be the best coder around.
+I attended the Awesome Inc. Web development Bootcamp and worked on projects involving front-end, back-end development. I learned how to use React to render beautiful webpages, build APIs, write PHP scripts and manipulate or show data in SQL with the intellectual instructors. I learned many more frameworks, but I continue to perfect my craft to be the best coder around.
     
   </div>
 </div></div>
